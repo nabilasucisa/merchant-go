@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Logs
+logs/
+*.log
+
+# Data
+data/history.json
+
+# Environment Variables
+.env
+
+# Go specific
+/bin/
+/pkg/
+/*.test
